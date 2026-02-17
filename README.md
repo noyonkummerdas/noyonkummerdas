@@ -57,8 +57,8 @@ I focus on clean UI, smooth UX, and maintainable code.
 
 ## 🤝 Connect With Me
 - 💼 GitHub: [github.com/noyonkummerdas](https://github.com/noyonkummerdas)
-- 📧 Email: *your-email@example.com*
-- 🌍 Portfolio: *Coming Soon*
+- 📧 Email: *nknoyon01936@gmail.com*
+- 🌍 Portfolio: *https://noyondasportfolio.vercel.app/*
 
 ---
 
